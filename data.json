@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "'John Doe'",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "'Steve Smith'",
+      "email": "steve@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "3",
+      "name": "Harry Potter",
+      "email": "potter@gmail.com",
+      "age": 38
+    },
+    {
+      "id": "5",
+      "name": "'Kate Johnatan'",
+      "email": "kate@gmail.com",
+      "age": 23
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "kvYlxBf"
+    }
+  ]
+}
